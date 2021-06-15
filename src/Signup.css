@@ -1,0 +1,16 @@
+.formcontainer input{
+    margin: auto;
+    width: 100%;
+}
+.formcontainer label{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+.formcontainer button{
+    padding: .5rem;
+    border: none;
+}
+input {
+    padding: 1rem;
+}

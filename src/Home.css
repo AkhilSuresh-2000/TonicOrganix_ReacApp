@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+.header p{
+    font-family: 'Josefin Slab', serif;
+}
+
+.cursivefont{
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 2px;
+}
+
+.second p{
+    display: inline;
+}
+.second img{
+    object-fit: cover;
+    /* border-radius: 25px; */
+}
+/* .prod-wrapper{
+} */
